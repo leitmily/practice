@@ -7,5 +7,7 @@
 
     > [爬取猫眼电影排行Top100](https://github.com/leitmily/practice/tree/master/spider/Maoyan "猫眼Top100")
 
+    > [抓取今日头条街拍美图](https://github.com/leitmily/practice/tree/master/spider/TouTiao "今日头条美图")
+
 * django
     > [django练习-开发简易博客](https://github.com/leitmily/practice/tree/master/django/myblog)
