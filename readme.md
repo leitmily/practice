@@ -9,5 +9,7 @@
 
     > [抓取今日头条街拍美图](https://github.com/leitmily/practice/tree/master/spider/TouTiao "今日头条美图")
 
+    > [抓取淘宝美食信息](https://github.com/leitmily/practice/tree/master/spider/TBMeishi "淘宝美食")
+
 * django
     > [django练习-开发简易博客](https://github.com/leitmily/practice/tree/master/django/myblog)
