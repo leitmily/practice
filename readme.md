@@ -13,3 +13,7 @@
 
 * django
     > [django练习-开发简易博客](https://github.com/leitmily/practice/tree/master/django/myblog)
+
+* demo
+
+    > [动态代理地址获取](https://github.com/leitmily/practice/tree/master/demo/DynamicProxyPool "动态代理地址获取")
