@@ -11,6 +11,8 @@
 
     > [抓取淘宝美食信息](https://github.com/leitmily/practice/tree/master/spider/TBMeishi "淘宝美食")
 
+    > [爬取微信文章](https://github.com/leitmily/practice/tree/master/spider/WeixinArticles "微信文章")
+
 * django
     > [django练习-开发简易博客](https://github.com/leitmily/practice/tree/master/django/myblog)
 
