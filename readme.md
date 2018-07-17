@@ -19,3 +19,7 @@
 * demo
 
     > [动态代理地址获取](https://github.com/leitmily/practice/tree/master/demo/DynamicProxyPool "动态代理地址获取")
+
+* algorithm
+
+    > [0-1背包](https://github.com/leitmily/practice/tree/master/algorithm/_0_1_bag "0-1背包")
